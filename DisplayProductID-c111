@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>49425</integer>
+	<key>DisplayProductName</key>
+	<string>Qualia</string>
+	<key>DisplayVendorID</key>
+	<integer>1552</integer>
+    <key>IOGFlags</key>
+	<integer>4</integer>
+	<key>scale-resolutions</key>
+	<array>
+		<data>AAACgAAAAeAAAAAB</data>
+		<data>AAADIAAAAlgAAAAB</data>
+		<data>AAAEAAAAAoAAAAAB</data>
+		<data>AAAEAAAAAwAAAAAB</data>
+		<data>AAAIAAAABQAAAAAJAIAAAA==</data>
+		<data>AAAIAAAABgAAAAAJAIAAAA==</data>
+	</array>
+</dict>
+</plist>
