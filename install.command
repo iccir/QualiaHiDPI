@@ -2,6 +2,6 @@
 
 pushd `dirname $0` > /dev/null
 pwd
-sudo cp DisplayProductID-c111 /System/Library/Displays/Overrides/DisplayVendorID-610
+sudo cp DisplayProductID-* /System/Library/Displays/Overrides/DisplayVendorID-610
 popd > /dev/null
 
